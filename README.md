@@ -1,5 +1,6 @@
 # 👋 Hi, I’m Pritee Shah!
-
+**Resume in Python**
+https://priteeshah.streamlit.app/
 ## 👀 About Me
 I am a passionate web developer currently pursuing my Bachelor's in Information Technology. My journey in tech began with a fascination for creating dynamic and user-friendly web applications. I thrive on learning new technologies and solving real-world problems through code.
 
